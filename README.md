@@ -261,7 +261,7 @@ pip install -r requirements.txt
 
 ## ▶ Running the Project
 
-Start the Streamlit dashboard:
+
 
 ```bash
 ```
