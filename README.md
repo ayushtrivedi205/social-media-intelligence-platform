@@ -261,9 +261,18 @@ pip install -r requirements.txt
 
 ## ▶ Running the Project
 
+Start the Streamlit dashboard:
+
+```bash
+```
+
 Open in browser:
+
 ```text
 https://social-media-intelligence-platform-8jhvhxu9ej7tjs5l7klkbn.streamlit.app/
+```
+
+---
 
 ## 📈 Results
 
