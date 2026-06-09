@@ -261,19 +261,9 @@ pip install -r requirements.txt
 
 ## ▶ Running the Project
 
-Start the Streamlit dashboard:
-
-```bash
-streamlit run app/dashboard.py
-```
-
 Open in browser:
-
 ```text
-http://localhost:8501
-```
-
----
+https://social-media-intelligence-platform-8jhvhxu9ej7tjs5l7klkbn.streamlit.app/
 
 ## 📈 Results
 
