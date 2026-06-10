@@ -242,7 +242,7 @@ SocialMediaAnalyticsProject
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/social-media-intelligence-platform.git
+git clone https://github.com/ayushtrivedi205/social-media-intelligence-platform.git
 ```
 
 Move into the project directory:
