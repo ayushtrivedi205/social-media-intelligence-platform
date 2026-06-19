@@ -293,8 +293,7 @@ https://social-media-intelligence-platform-8jhvhxu9ej7tjs5l7klkbn.streamlit.app/
 ## 👨‍💻 Author
 
 **Ayush Trivedi**
-
-Final Year Data Science Project
+Final Year CSE Data Science Student
 
 ---
 
